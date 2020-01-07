@@ -1,0 +1,2 @@
+# zxqResource
+静态
